@@ -1,0 +1,19 @@
+.circle-one {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: aqua;
+}
+
+.circle-two {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: brown;
+}
+
+.rectangle {
+  width: 100px;
+  height: 100px;
+  background-color: navy;
+}
